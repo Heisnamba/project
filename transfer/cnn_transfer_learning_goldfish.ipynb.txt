@@ -7,12 +7,7 @@
     "<h2 style='color:blue' align='center'>Transfer learning in image classification</h2>"
    ]
   },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "**In this notebook we will use transfer learning and take pre-trained model from google's Tensorflow Hub and re-train that on flowers dataset. Using pre-trained model saves lot of time and computational budget for new classification problem at hand**"
-   ]
+ 
   },
   {
    "cell_type": "code",
